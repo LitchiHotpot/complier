@@ -1,0 +1,7 @@
+int a;
+void main(int c) {
+    while (a)
+    {
+        break;
+    }
+}
